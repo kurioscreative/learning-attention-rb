@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rice (4.6.1)
+    torch-rb (0.20.0)
+      rice (>= 4.5)
+
+PLATFORMS
+  arm64-darwin-24
+  ruby
+
+DEPENDENCIES
+  torch-rb
+
+BUNDLED WITH
+   2.7.1
